@@ -1,3 +1,4 @@
+package junior2020;
 import java.util.Scanner;
 public class J2_2020 {
 

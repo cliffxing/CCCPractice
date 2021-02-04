@@ -1,3 +1,5 @@
+package senior2019;
+
 import java.util.Scanner;
 /**
  * Write a description of class s1_2019 here.
