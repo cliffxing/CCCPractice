@@ -1,4 +1,4 @@
-//package senior2015;
+package senior2015;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -12,7 +12,7 @@ import javax.lang.model.util.ElementScanner6;
  * @author (your name)
  * @version (a version number or a date)
  */
-public class Main {
+public class s2_2015 {
     // instance variables - replace the example below with your own
 
     public static void main(String[] args) {
@@ -52,7 +52,7 @@ public class Main {
             else if (list[0].equals("L")){
                 size = 3;
             }
-            
+
             if (jerseys.get(number)!=null)
             {
                 if (jerseys.get(number) >= size) {

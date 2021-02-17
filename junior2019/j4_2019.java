@@ -1,4 +1,4 @@
-package senior2019;
+package junior2019;
 
 import java.util.Scanner;
 /**
@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author (your name)
  * @version (a version number or a date)
  */
-public class s1_2019
+public class j4_2019
 {
     // instance variables - replace the example below with your own
 
