@@ -1,10 +1,10 @@
-package senior2014;
+//package senior2014;
 
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Collections;
-public class s2_2014 {
+public class Main {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int x = s.nextInt();

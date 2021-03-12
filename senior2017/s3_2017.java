@@ -31,15 +31,7 @@ public class s3_2017 {
             for (int k = i; k < n; k++) {
                 if (k != i) {
                     sums.add(start + list.get(k));
-                    if (Collections.frequency(sums, start + list.get(k))>large)
-                    {
-                        large = 1;
-
-                    }
-                    else if (Collections.frequency(sums, start + list.get(k))==large)
-                    {
-                        large++;
-                    }
+                    
                 }
 
             }
